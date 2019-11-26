@@ -1,0 +1,274 @@
+{
+  "monday" : {
+    "day_in_week" : 0,
+    "count_objects" : 4,
+
+    "1_object" : {
+      "name_object" : "Организация и управление предприятием",
+      "name_teacher" : "Лукина С.В.",
+      "date_object" : "02.09-30.09",
+      "classroom" : "0309",
+      "start_time" : "08:30:00",
+      "end_time" : "10:10:00",
+      "type_of_object" : "Лекция"},
+
+    "2_object" : {
+      "name_object" : "Организация и управление предприятием",
+      "name_teacher" : "Лукина С.В.",
+      "date_object" : "02.09-30.09",
+      "classroom" : "0309",
+      "start_time" : "10:20:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "Лекция"},
+
+    "3_object" : {
+      "name_object" : "Базы данных",
+      "name_teacher" : "Тюрбеева Т.Б.",
+      "date_object" : ["02.09-28.10", "11.11-09.12"],
+      "classroom" : "240(б)",
+      "start_time" : "12:20:00",
+      "end_time" : "14:00:00",
+      "type_of_object" : "Лекция"},
+
+    "4_object" : {
+      "name_object" : "Электротехника, электроника и схемотехника",
+      "name_teacher" : "Сергеев Ю.Д.",
+      "date_object" : "07.10-28.10",
+      "classroom" : "346/6",
+      "start_time" : "14:10:00",
+      "end_time" : "15:50:00",
+      "type_of_object" : "Семинар"}
+  },
+
+
+  "tuesday" : {
+    "day_in_week" : 1,
+    "count_objects" : 4,
+
+    "2_object" : {
+      "name_object" : "Теория конечных автоматов",
+      "name_teacher" : "Бекмурзаев В.А.",
+      "date_object" : "17.09-17.12",
+      "classroom" : "240(б)",
+      "start_time" : "10:20:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "Лекция"},
+
+    "3_object" : {
+      "name_object" : "Теория конечных автоматов",
+      "name_teacher" : "Бекмурзаев В.А.",
+      "date_object" : "17.09-17.12",
+      "classroom" : "311",
+      "start_time" : "12:20:00",
+      "end_time" : "14:00:00",
+      "type_of_object" : "Семинар"},
+
+    "4_object" : {
+      "name_object" : "Экономико-правовые основы рынка интеллектуальных продуктов",
+      "name_teacher" : "Гринман И.Р.",
+      "date_object" : "24.09-10.12",
+      "classroom" : "449",
+      "start_time" : "14:10:00",
+      "end_time" : "15:50:00",
+      "type_of_object" : "Семинар"}
+  },
+
+
+  "wednesday" : {
+    "day_in_week" : 2,
+    "count_objects" : 4,
+
+     "1_object" : {
+      "name_object" : "Базы данных",
+      "name_teacher" : "Тюрбеева Т.Б.",
+      "date_object" : "18.09-23.10",
+      "classroom" : "306",
+      "start_time" : "08:30:00",
+      "end_time" : "10:10:00",
+      "type_of_object" : "Семинар"},
+
+    "2_object" : {
+      "name_object" : "Человеко-машинное взаимодействие",
+      "name_teacher" : "Елисеева Н.В.",
+      "date_object" : "04.09-04.12",
+      "classroom" : "0309",
+      "start_time" : "10:20:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "Лекция"},
+
+    "3_object" : {
+      "name_object" : "Человеко-машинное взаимодействие",
+      "name_teacher" : "Елисеева Н.В.",
+      "date_object" : "18.09-23.10",
+      "classroom" : "0306",
+      "start_time" : "12:20:00",
+      "end_time" : "14:00:00",
+      "type_of_object" : "Семинар"},
+
+    "4_object" : {
+      "name_object" : "Организация и управление предприятием",
+      "name_teacher" : "Лукина С.В.",
+      "date_object" : "18.09-02.10,16.10",
+      "classroom" : "447",
+      "start_time" : "14:10:00",
+      "end_time" : "15:50:00",
+      "type_of_object" : "Семинар"}
+  },
+
+
+  "thursday" : {
+    "day_in_week" : 3,
+    "count_objects" : 4,
+
+     "1_object" : [
+       {"name_object" : "Компьютерная графика (А)",
+      "name_teacher" : "Болдарев А.С.",
+      "date_object" : "03.10-28.11",
+      "classroom" : "235(и)",
+      "start_time" : "08:30:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "ЛР"},
+
+      {"name_object" : "Компьютерная графика (Б)",
+      "name_teacher" : "Болдарев А.С.",
+      "date_object" : "10.10-05.12",
+      "classroom" : "235(и)",
+      "start_time" : "08:30:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "ЛР"},
+
+       {"name_object" : "Человеко-машинное взаимодействие (А)",
+      "name_teacher" : "Бердюгин А.В.",
+      "date_object" : "24.10-05.12",
+      "classroom" : "313",
+      "start_time" : "08:30:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "ЛР"},
+
+       {"name_object" : "Человеко-машинное взаимодействие (Б)",
+      "name_teacher" : "Бердюгин А.В.",
+      "date_object" : "31.10-12.12",
+      "classroom" : "313",
+      "start_time" : "08:30:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "ЛР"}
+     ],
+
+    "3_object" : {
+      "name_object" : "Компьютерная графика",
+      "name_teacher" : "Болдарев А.С.",
+      "date_object" : "05.09-05.12",
+      "classroom" : "0309",
+      "start_time" : "12:20:00",
+      "end_time" : "14:00:00",
+      "type_of_object" : "Лекция"},
+
+    "4_object" : {
+      "name_object" : "Физ-ра",
+      "name_teacher" : "Кто-то",
+      "date_object" : "19.09-19.12",
+      "classroom" : "СпортЗал",
+      "start_time" : "14:10:00",
+      "end_time" : "15:50:00",
+      "type_of_object" : "Семинар"}
+  },
+
+
+  "friday" : {
+    "day_in_week": 4,
+    "count_objects" : 4,
+
+    "1_object": [
+      {"name_object": "Электротехника, электроника и схемотехника (А)",
+      "name_teacher": "Сергеев Ю.Д.",
+      "date_object": "20.09-29.11",
+      "classroom": "346/4",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"},
+
+      {"name_object": "Электротехника, электроника и схемотехника (Б)",
+      "name_teacher": "Сергеев Ю.Д.",
+      "date_object": "27.09-06.12",
+      "classroom": "346/4",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"},
+
+      {"name_object": "Базы данных (А)",
+      "name_teacher": "Рожкова О.А.",
+      "date_object": "27.09-08.11",
+      "classroom": "216",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"},
+
+      {"name_object": "Базы данных (Б)",
+      "name_teacher": "Рожкова О.А.",
+      "date_object": "20.09-01.11",
+      "classroom": "216",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"},
+
+      {"name_object": "Web-программирование (А)",
+      "name_teacher": "Яскевич К.И.",
+      "date_object": "22.11-20.12",
+      "classroom": "313",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"},
+
+      {"name_object": "Web-программирование (Б)",
+      "name_teacher": "Яскевич К.И.",
+      "date_object": "15.11-13.12",
+      "classroom": "313",
+      "start_time": "08:30:00",
+      "end_time": "12:00:00",
+      "type_of_object": "ЛР"}
+    ],
+
+    "3_object": {
+      "name_object": "Экономико-правовые основы рынка интелектуальных продуктов",
+      "name_teacher": "Гриман И.Р.",
+      "date_object": "06.09-22.11",
+      "classroom": "240(б)",
+      "start_time": "12:20:00",
+      "end_time": "14:00:00",
+      "type_of_object": "Лекции"},
+
+    "4_object": {
+      "name_object": "Электротехника, электроника и схемотехника",
+      "name_teacher": "Сергеев Ю.Д.",
+      "date_object": "06.09-22.11",
+      "classroom": "409",
+      "start_time": "14:10:00",
+      "end_time": "15:50:00",
+      "type_of_object": "Лекция"}
+  },
+
+
+ "saturday" : {
+    "day_in_week": 5,
+   "count_objects" : 3,
+
+   "2_object" : {
+      "name_object" : "Web- программирование",
+      "name_teacher" : "Гаврилов А.Г.",
+      "date_object" : "07.09-23.11",
+      "classroom" : "0409",
+      "start_time" : "10:20:00",
+      "end_time" : "12:00:00",
+      "type_of_object" : "Лекция"},
+
+    "3_object": {
+      "name_object": "Web- программирование",
+      "name_teacher": "Гаврилов А.Г.",
+      "date_object": "21.09-26.10",
+      "classroom": "240(б)",
+      "start_time": "12:20:00",
+      "end_time": "14:00:00",
+      "type_of_object": "Лекции"}
+  }
+
+}
